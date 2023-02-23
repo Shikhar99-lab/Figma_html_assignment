@@ -1,0 +1,354 @@
+@font-face {
+    font-family: 'Buffalo';
+    src: url('./buffalo.regular.otf');
+  } 
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('./NoirPro-Regular.otf');
+  }
+
+.secn1{
+    width: 100%;
+    height: auto;
+    flex-grow: 0;
+    padding: 42px 0 0;
+    background-color: #f0f1f0;
+    padding-bottom: 68px;
+}
+.logo{
+    width: 120.7px;
+    height: 30px;
+    margin: 9px 50px 64px 171px;
+}
+.cnt1{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 17px 40px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 52px;
+left: 1163px;
+top: 42px;
+
+background: #0652DD;
+border-radius: 100px;
+}
+.GET-ESTIMATE{
+/* GET ESTIMATE */
+height: 18px;
+
+/* Button/title */
+font-family: 'Noir Pro', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.-Introduction-to-Us {
+/* Title/Script */
+
+font-family: 'Buffalo', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 53px;
+
+color: #000000;
+  }
+  .Kickstart-Your-Digital-journey-today {
+    width: 529px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 0 0 20px;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 54px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.04;
+    letter-spacing: -0.54px;
+    text-align: left;
+    color: #1c1c1c;
+  }
+  .Line-1 {
+    width: 178px;
+    height: 2px;
+    flex-grow: 0;
+    margin: 0px 24px 0px 171px;
+    background-color: #1c1c1c;
+  }
+  .We-are-the {
+    font-family: 'NoirPro', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+  }
+  .vectorimg{/* Vector 3 */
+position: absolute;
+width: 231px;
+height: 176px;
+left: -7px;
+top: 414px;
+  }
+  .Ellipse-17 {
+    background-image: url("./images/Ellipse17.png");
+    width: 46px;
+    height: 46px;
+    flex-grow: 0;
+  }
+  .avatar{
+    margin-top:20px;
+  }
+  .Leslie-Alexander {
+    margin: 2px 49px 0 0px;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+  }
+  .Site-Reliability-Engineer {
+    margin: 22px 0 4px 0px;
+    opacity: 0.7;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+  }
+  .leftar{
+    width: 14px;
+    height: 22px;
+    flex-grow: 0;
+    margin: 0 16px 0 0;
+    float: left;
+  }
+  .rightar{
+    width: 14px;
+    height: 22px;
+    flex-grow: 0;
+    margin: 0 0 0 16px;
+  }
+  
+  .image-157 {
+    background-image: url("./images/bg1.png");
+    width: 1512px;
+    height: 628px;
+    margin: 0 0 42px;
+    padding: 106px 952px 306px 171px;
+  }
+  .Have-a-question {
+    width: 168px;
+    height: 53px;
+    flex-grow: 0;
+    margin: 0 55px 89px 3px;
+    font-family: 'Buffalo', sans-serif;
+    font-size: 38px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .Get-in-touch {
+    width: 301px;
+    height: 56px;
+    flex-grow: 0;
+    margin: 52px 88px 34px 0;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 54px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.04;
+    letter-spacing: -0.54px;
+    text-align: left;
+    color: #fff;
+  }
+  .For-work-inquiry {
+    width: 133px;
+    height: 24px;
+    flex-grow: 0;
+    margin: 0 23px 10px 0;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .salesailoittecom-bizailoitte-India-91-8867371492 {
+    width: 156px;
+    height: 66px;
+    flex-grow: 0;
+    margin: 10px 0 0;
+    opacity: 0.8;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.47;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .For-career-inquiry {
+    width: 146px;
+    height: 24px;
+    flex-grow: 0;
+    margin: 0 17px 10px 0;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .careerailoittecom-India-91-333-229-333 {
+    width: 163px;
+    height: 44px;
+    flex-grow: 0;
+    margin: 10px 0 0;
+    opacity: 0.8;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.47;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .Copyright-2022-Ailoitte-Technologies-Pvt-Ltd-All-rights-reserved {
+    width: 548px;
+    height: 24px;
+    flex-grow: 0;
+    font-family: 'NoirPro', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+  }
+  .work{
+    margin-top: 34px;
+    margin-right: 67px;
+  }
+  .career{
+    margin-top: 34px;
+  }
+  .grow{
+    margin-left: 165px;
+  }
+  .linewe{
+    margin-top: 33px;
+  }
+  .arrows {
+    clear: both;
+  }
+  .arrows div {
+    width: 50%;
+    display: inline-block;
+  }
+  .copyright{
+    margin-bottom: 39px;
+  }
+  .formcard{
+    width: 557px;
+    height: 740px;
+    margin: 0px 171px 0px 85px;
+    padding: 0px 35px 40px 40px;
+    border-radius: 20px;
+    -webkit-backdrop-filter: blur(120px);
+    backdrop-filter: blur(120px);
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 0px;
+    position:absolute;
+  }
+  .formcardbody{
+    margin:40px 0px 0px 0px;
+    position: absolute;
+  }
+  .input {
+    border: none;
+    border-bottom: 1px solid #999999;
+    outline: none;
+    padding-bottom: 13px;
+    margin-top:40px;
+    background: transparent;
+  }
+  .flag{
+    position: absolute;
+width: 20px;
+height:20px;
+background: url(./images/flag.png);
+  }
+  .inputfull{
+    width: 100%;
+  }
+  .inputtextarea{
+    height: 130px;
+    border: none;
+    outline: none;
+    padding-bottom: 13px;
+    background: transparent;
+  }
+  .formsubmit{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 17px 40px;
+gap: 10px;
+position: absolute;
+width: 100%;
+height: 52px;
+background: #0652DD;
+border-radius: 100px;
+color: white;
+margin-top:20px;
+border: 0px;
+}
+  
